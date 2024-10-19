@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":2,
+        "name":"Sports Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":400,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":3,
+        "name":"Comic Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":170,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":200,
+        "category":"Music",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":100,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726668980~exp=1726672580~hmac=04e3787f83560c6de6461d305a86a04e1033d560d257ee0be64ba2608c834884&w=740"
+    }
+]
